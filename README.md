@@ -2,13 +2,9 @@
 
 ## 🚀 About Me
 
-I'm a **passionate developer and IT consultant** based in the **United Kingdom**, with a strong focus on creating robust, secure, and scalable solutions. With expertise spanning web development, cybersecurity, and backend systems, I help businesses transform their digital presence while maintaining the highest security standards.
+Backend Systems Developer | Secure Production Platforms | APIs, Authentication & Risk Mitigation
 
-### 🎯 What I Do
-- **Full-Stack Web Development** - Building modern, responsive web applications
-- **IT Consulting** - Strategic technology guidance for businesses
-- **Cybersecurity Solutions** - Implementing secure architectures and best practices
-- **Backend Development** - Designing scalable server-side applications and APIs
+
 
 ---
 
@@ -44,21 +40,7 @@ I'm a **passionate developer and IT consultant** based in the **United Kingdom**
 - **Infrastructure Security**: Server hardening, SSL/TLS implementation, firewall configuration
 - **Risk Management**: Security policy development, incident response planning
 
-### **IT Consulting**
-- **Technology Strategy**: Digital transformation roadmaps, system architecture design
-- **Performance Optimization**: Code review, database optimization, scalability planning
-- **Business Solutions**: Custom software development, process automation
-- **Technical Leadership**: Team mentoring, project management, best practices implementation
 
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-  
-![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=christianohwofasa&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christianohwofasa&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
