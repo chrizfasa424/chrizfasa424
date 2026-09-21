@@ -46,17 +46,6 @@ Backend Systems Developer | Secure Production Platforms | APIs, Authentication &
 
 ---
 
-## 🔐 Security First Approach
-
-As a cybersecurity-focused developer, I prioritize:
-
-- **Secure Coding Practices** - Writing code that's resistant to common vulnerabilities
-- **Data Protection** - Implementing proper encryption and data handling procedures  
-- **Access Control** - Designing robust authentication and authorization systems
-- **Compliance** - Ensuring solutions meet industry standards (GDPR, ISO 27001)
-
----
-
 ## 💼 Professional Services
 
 ### **Web Development Solutions**
@@ -64,27 +53,6 @@ As a cybersecurity-focused developer, I prioritize:
 - API development and third-party integrations  
 - Legacy system modernization and migration
 - Performance optimization and scalability improvements
-
-### **Cybersecurity Consulting**
-- Security assessments and vulnerability testing
-- Secure architecture design and implementation
-- Staff training and security awareness programs
-- Incident response and digital forensics support
-
-### **IT Strategy & Consulting**
-- Digital transformation planning and execution
-- Technology stack evaluation and recommendations
-- Process automation and workflow optimization
-- Technical due diligence for mergers and acquisitions
-
----
-
-## 🌟 Current Focus
-
-- 🔍 **Exploring**: Advanced threat detection and AI-powered security solutions
-- 🏗️ **Building**: Secure, scalable web applications with modern frameworks
-- 📚 **Learning**: Latest cybersecurity trends and emerging technologies
-- 🤝 **Collaborating**: On open-source security tools and educational resources
 
 ---
 
